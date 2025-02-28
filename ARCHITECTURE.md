@@ -17,10 +17,13 @@ The project will include the following architectural components:
 
 ### C4 Model Diagrams
 ```mermaid
-graph LR
-    Patient -->|Vital Signs| IoT_Device
-    IoT_Device -->|Transmits Data| Backend
-    Backend -->|Stores Data| Database
-    Backend -->|Processes Data| AI_Alerts
-    AI_Alerts -->|Notifies| Medical_Staff
+graph TD
+    subgraph "Patient Monitoring System"
+        Patient["🧑 Patient"] -->|Vital Signs| IoT_Device["📟 IoT Sensors"]
+        IoT_Device -->|Transmits Data| Backend["🖥️ Python Backend"]
+        Backend -->|Stores Data| Database["🗄️ SQLite Database"]
+        Backend -->|Processes Data| AI_Alerts["🤖 AI Alert System"]
+        AI_Alerts -->|Notifies| Medical_Staff["👨‍⚕️ Medical Staff"]
+        Medical_Staff -->|Views Data| Web_App["📱 Web & Mobile App"]
+    end
 ```
