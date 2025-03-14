@@ -103,5 +103,3 @@
 - Access denied → System notifies family member.
 
 ---
-
-This document outlines key system functionalities, ensuring alignment with stakeholder needs and system requirements. 🚀
