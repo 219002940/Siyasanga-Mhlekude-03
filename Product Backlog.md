@@ -11,3 +11,9 @@
 | US-006 | Request patient updates | Could-have | 2 | US-005 |
 | US-007 | Generate compliance reports | Should-have | 4 | Data storage system |
 | US-008 | Maintain user activity logs | Must-have | 4 | Authentication & database |
+### **Prioritization Justification:**
+- **Must-have** stories align with **critical medical workflows** (e.g., real-time vitals, security, alerts, role management).
+- **Should-have** stories improve **efficiency** and **compliance** but are not immediate blockers.
+- **Could-have** stories enhance **usability** but are **not essential for MVP**.
+
+---
