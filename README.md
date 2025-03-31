@@ -71,7 +71,13 @@ This project uses an **Automated Kanban** board in GitHub Projects to track Agil
 
 ---
 
-## 📌 Conclusion  
+Conclusion  
 These customizations ensure a structured and **Agile-friendly** workflow, improving task management, quality assurance, and project tracking in the **Smart Healthcare Monitoring System**.
+
+These are the screenshort of the Issues and Table
+![Screenshot (1)](https://github.com/user-attachments/assets/20f9a7dc-0b41-4e74-b3b3-c12f315cf4ae)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/40a1d1ab-3be3-493a-9771-b1ded9259571)
+
 
 
