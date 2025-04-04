@@ -89,57 +89,7 @@ These are the screenshort of the Issues and Table
 | User Stories (Assignment 6)           | [View User Stories](./docs/assignment6_user_stories.md) |
 | Sprint Tasks (Assignment 6)           | [View Sprint Plan](./docs/assignment6_sprint_plan.md) |
 
-# 🏥 Smart Health Care Monitoring System
 
-Welcome to the official repository for the **Smart Health Care Monitoring System** project, built for Agile software development, analysis, modeling, and implementation using GitHub Projects and Markdown-based documentation.
-
----
-
-## 📚 Project Documentation Index
-
-This repository includes the following core markdown artifacts across multiple assignments:
-
-### ✅ Assignment 4 – Functional Requirements
-- [Functional Requirements](Functional_Requirements.md)
-
-### ✅ Assignment 5 – Use Cases and Modeling
-- [Use Case Diagrams](Use_Case_Modeling.md)
-- [Domain Model](Domain_Model.md)
-
-### ✅ Assignment 6 – Agile Planning
-- [User Stories and Product Backlog](User_Stories_and_Backlog.md)
-- [Sprint Plan and Task Breakdown](Sprint_Plan.md)
-- [Agile Planning Document](Agile_Planning.md)
-- [Reflection on Agile Alignment](Agile_Reflection.md)
-
-### ✅ Assignment 7 – GitHub Project & Kanban
-- [GitHub Project Template Analysis](Github_Project_Template_Analysis.md)
-- [Kanban Board Design](Github_Kanban_Board.md)
-- [Kanban README Customization](Kanban_Readme_Customization.md)
-- [Kanban Board Reflection](Kanban_Reflection.md)
-
-### ✅ Assignment 8 – UML Modeling
-- [State Transition Diagrams](State_Transition_Diagrams.md)
-- [Activity Workflow Diagrams](Activity_Workflow_Diagrams.md)
-- [Traceability & Integration](Traceability_Integration.md)
-- [Modeling Reflection](Modeling_Reflection.md)
-
----
-
-## 🚀 Repository Highlights
-
-- ✅ Agile sprint planning with [GitHub Projects](https://github.com/219002940/Siyasanga-Mhlekude-03/projects)
-- ✅ UML-based state and activity modeling using Mermaid
-- ✅ Integrated documentation traceable to user stories, functional requirements, and sprint tasks
-
----
-
-## 📌 How to Navigate
-
-- Clone the repo:  
-  ```bash
-  git clone https://github.com/219002940/Siyasanga-Mhlekude-03.git
-  cd Siyasanga-Mhlekude-03
 
 
 
