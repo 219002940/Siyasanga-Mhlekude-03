@@ -79,5 +79,14 @@ These are the screenshort of the Issues and Table
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/40a1d1ab-3be3-493a-9771-b1ded9259571)
 
+### README Links to Diagrams & Explanations
+
+| Artifact                              | Link |
+|---------------------------------------|------|
+| State Diagrams (Assignment 8)         | [View State Diagrams](./docs/assignment8_state_diagrams.md) |
+| Activity Diagrams (Assignment 8)      | [View Activity Diagrams](./docs/assignment8_activity_diagrams.md) |
+| Functional Requirements (Assignment 4)| [View Functional Requirements](./docs/assignment4_requirements.md) |
+| User Stories (Assignment 6)           | [View User Stories](./docs/assignment6_user_stories.md) |
+| Sprint Tasks (Assignment 6)           | [View Sprint Plan](./docs/assignment6_sprint_plan.md) |
 
 
