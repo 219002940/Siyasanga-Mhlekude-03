@@ -12,7 +12,7 @@ A real-time patient monitoring system designed for hospitals and healthcare faci
 - [Stakeholder Analysis Table](STAKEHOLDERANALYSIS.md)
 - [Functional Requirements](FUNCTIONALREQUIREMENTS.md)
 - [Non-Functional Requirements](NON_FUNCTIONALREQUIREMENTS.md)
-- [Reflection and Challenges](Reflection and Challenges.md)
+- [Reflection and Challenges](ReflectionandChallenges.md)
 
 # Smart Healthcare Monitoring System – Kanban Board Customization
 
