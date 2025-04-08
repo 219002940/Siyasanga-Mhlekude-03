@@ -89,6 +89,59 @@ These are the screenshort of the Issues and Table
 | User Stories (Assignment 6)           | [View User Stories](./docs/assignment6_user_stories.md) |
 | Sprint Tasks (Assignment 6)           | [View Sprint Plan](./docs/assignment6_sprint_plan.md) |
 
+# GitHub Project: Smart Health Care Monitoring System
+
+## 📌 Overview
+This repository contains all assignments, artifacts, diagrams, and reflections for the **Smart Health Care Monitoring System** project.
+
+---
+
+## 📁 Assignments & Artifacts
+
+### ✅ Assignment 3: Requirements
+- [Stakeholder Analysis Table](./Stakeholder-Analysis.md)
+- [Functional Requirements](./Functional-Requirements.md)
+- [Non-Functional Requirements](./Non-Functional-Requirements.md)
+- [Reflection on Challenges](./Reflection-Requirements.md)
+
+### ✅ Assignment 4: Use Case Modeling
+- [Use Case Diagram](./Use-Case-Diagram.md)
+- [Use Case Specifications](./Use-Case-Specifications.md)
+- [Reflection](./Reflection-Use-Case.md)
+
+### ✅ Assignment 5: Testing
+- [Test Case Table](./Test-Cases.md)
+- [Test Document & Use Cases](./Test-and-Use-Case-Document.md)
+- [Reflection](./Reflection-Testing.md)
+
+### ✅ Assignment 6: Agile Planning
+- [User Stories](./User-Stories.md)
+- [Product Backlog](./Product-Backlog.md)
+- [Sprint Planning](./Sprint-Planning.md)
+- [Agile Planning Document](./Agile-Planning.md)
+- [Reflection](./Reflection-Agile.md)
+
+### ✅ Assignment 7: GitHub Kanban & Project Management
+- [GitHub Kanban Board Analysis](./Github-Kanban.md)
+- [Kanban README Customization](./Kanban-Readme.md)
+- [Kanban Board Explanation](./Kanban-Board-Explanation.md)
+- [Reflection](./Reflection-Kanban.md)
+
+### ✅ Assignment 8: UML Modeling
+- [State Transition Diagrams](./State-Transition-Diagrams.md)
+- [Activity Diagrams](./Activity-Diagrams.md)
+- [Traceability to Prior Work](./Traceability-Diagrams.md)
+- [Reflection](./Reflection-UML.md)
+
+### ✅ Assignment 9: Domain Modeling
+- [Domain Model](./Domain-Model.md)
+- [Class Diagram in Mermaid](./Class-Diagram.md)
+- [Reflection on Domain Modeling](./Reflection-Assignment9.md)
+
+---
+
+
+
 
 
 
