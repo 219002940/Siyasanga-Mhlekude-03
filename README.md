@@ -10,7 +10,7 @@ A real-time patient monitoring system designed for hospitals and healthcare faci
 - [System Specification](SPECIFICATION.md)
 - [C4 Architecture](ARCHITECTURE.md)
 - [Stakeholder Analysis Table](STAKEHOLDERANALYSIS.md)
-- [Functional Requirements](FUNCTIONALREQUIREMENTS.md)
+- [FunctionalRequirements](FUNCTIONALREQUIREMENTS.md)
 - [Non-Functional Requirements](NON_FUNCTIONALREQUIREMENTS.md)
 - [Reflection and Challenges](ReflectionandChallenges.md)
 
