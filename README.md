@@ -89,6 +89,21 @@ These are the screenshort of the Issues and Table
 | User Stories (Assignment 6)           | [View User Stories](./docs/assignment6_user_stories.md) |
 | Sprint Tasks (Assignment 6)           | [View Sprint Plan](./docs/assignment6_sprint_plan.md) |
 
+ Assignment 9: Domain Modeling
+
+Domain Model
+
+Class Diagram in Mermaid
+
+Reflection on Domain Modeling
+
+Assignment 10: Class Implementation & Design Patterns
+
+Class Implementations in Python (/src)
+
+Programming Language & Design Decisions
+
+Creational Patterns Justification
 
 
 
