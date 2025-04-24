@@ -1,8 +1,11 @@
-### Abstraction Layer (Factory Pattern)
 
-/factories/repository_factory.py
+---
 
+## 3.  Abstraction Layer (Factory Pattern)
 
+### `/factories/repository_factory.py`
+
+```python
 from repositories.inmemory.patient_repository import InMemoryPatientRepository
 
 def get_patient_repository(storage_type: str = "MEMORY"):
@@ -12,6 +15,8 @@ def get_patient_repository(storage_type: str = "MEMORY"):
         raise NotImplementedError("Database backend not implemented yet")
     else:
         raise ValueError("Invalid storage type")
+```
 
-        
-        Justification: Chose Factory Pattern for simple backend switching and future extensibility.
+>  **Justification**: Chose **Factory Pattern** for simple backend switching and future extensibility.
+
+
