@@ -1,7 +1,7 @@
 
 ---
 
-## 4. 🏢 Future-Proofing
+## 4. Future-Proofing
 
 ### Stub: `/repositories/filesystem/patient_file_repository.py`
 
@@ -20,9 +20,9 @@ class FileSystemPatientRepository:
         raise NotImplementedError
 ```
 
-> ✅ Stub created to enable future JSON/XML-based storage.
+>  Stub created to enable future JSON/XML-based storage.
 
-### 📈 Updated Class Diagram (Conceptual)
+###  Updated Class Diagram (Conceptual)
 
 ```
 Repository<T, ID>
@@ -35,7 +35,7 @@ Repository<T, ID>
 
 ---
 
-## 5. 🔧 Unit Tests
+## 5. Unit Tests
 
 ### `/tests/test_patient_repository.py`
 
@@ -55,10 +55,10 @@ assert repo.find_by_id("P001") is None
 
 ---
 
-## 🔍 README Update Snippet
+##  README Update Snippet
 
 ```markdown
-### 🗃️ Repository Layer
+###  Repository Layer
 - Abstracted CRUD logic via generic repository interface.
 - Used Factory Pattern to switch storage types.
 - Added `/repositories` for interfaces and `/inmemory` for in-memory stores.
@@ -67,13 +67,13 @@ assert repo.find_by_id("P001") is None
 
 ---
 
-## 🎓 Summary
+## Summary
 
-- ✅ Used generic base interfaces for reuse
-- ✅ Implemented working in-memory repositories
-- ✅ Abstracted storage via Factory Pattern
-- ✅ Prepared JSON-based storage for future
-- ✅ Passed unit tests for CRUD operations
+-  Used generic base interfaces for reuse
+- Implemented working in-memory repositories
+- Abstracted storage via Factory Pattern
+- Prepared JSON-based storage for future
+-  Passed unit tests for CRUD operations
 
 > This makes the system scalable, testable, and decoupled from backend-specific code.
 
